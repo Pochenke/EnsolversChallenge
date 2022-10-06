@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EnsolversChallenge/static/css/main.c59cc657.css",
+    "main.js": "/EnsolversChallenge/static/js/main.922f064a.js",
+    "index.html": "/EnsolversChallenge/index.html",
+    "main.c59cc657.css.map": "/EnsolversChallenge/static/css/main.c59cc657.css.map",
+    "main.922f064a.js.map": "/EnsolversChallenge/static/js/main.922f064a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.922f064a.js"
+  ]
+}
